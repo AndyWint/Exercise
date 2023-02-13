@@ -27,3 +27,5 @@ Console.Write("Меньшее число, ");
 {
     Console.WriteLine(numberB);
 }
+
+ 

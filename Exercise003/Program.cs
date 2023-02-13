@@ -5,7 +5,7 @@
 // -3 -> нет
 //  7 -> нет
 
-double A = -3;
+double A = -2;
 double div = 0;
 div = A % 2;
 if(div == 0)

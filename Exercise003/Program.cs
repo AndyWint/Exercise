@@ -16,4 +16,4 @@ else
 {
     Console.WriteLine("Число нечетное");
 }
-
+ 

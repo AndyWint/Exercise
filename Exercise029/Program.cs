@@ -26,7 +26,7 @@ void PrintArray(double[] col)                  //выводит массив
     }
 }
 
-//double A = Console.ReadLine("Введите число");
+//double A = Console.ReadLine("Введите число");     // можно через эту переменную задать количество чисел в массиве
 double[] arr = new double[5];
 Mass1(arr);
 PrintArray(arr);

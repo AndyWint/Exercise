@@ -21,4 +21,4 @@ long Akkerman(long m, long n)
 }
 
 
-Console.WriteLine(Akkerman(1, 2));
+Console.WriteLine(Akkerman(3, 2));
